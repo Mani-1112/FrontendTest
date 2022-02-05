@@ -8,7 +8,7 @@
     "build": "webpack --mode production"
   },
   "keywords": [],
-  "author": "",
+  "author": "manish.subudhi@gmail.com",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.16.5",
